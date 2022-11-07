@@ -91,3 +91,32 @@ button {
   margin-top: 10px;
   color:#d53369;
 }
+
+
+.colorsunrise{
+  background-image: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
+.colorfrost{
+  background-image: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+}
+
+.colorlime{
+  background-image: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
+} 
+
+.btn{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+.tle{
+    font-size: 15px; 
+    padding-bottom: 9px;
+    margin-top: 15px;
+} 
+.prg{ 
+    font-size: 13px; 
+    line-height: 1.6; 
+    margin-bottom: 15px;
+}
