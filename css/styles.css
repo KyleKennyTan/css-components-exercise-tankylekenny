@@ -84,3 +84,10 @@ button {
     max-width: 90vw;
   }
 }
+.title{
+  font-size: 30px;
+  font-weight: 700;
+  text-align: left;
+  margin-top: 10px;
+  color:#d53369;
+}
